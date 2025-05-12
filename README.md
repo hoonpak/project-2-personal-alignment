@@ -6,7 +6,7 @@ conda activate p_align
 pip install transformers==4.49.0 peft==0.14.1.dev0 torch==2.6.0
 ```
 
-# Dataset
+# Dataset Info
 ### PRISM
 * Paper: https://arxiv.org/abs/2404.16019
 * Project page: https://hannahkirk.github.io/prism-alignment/
